@@ -52,4 +52,4 @@ run this code
 code : python detect.py --weight best.pt --source testing
 'here testing is a folder name that contains the images of the insulaotres
 
-step 6 : we can aslo use viedos for the model</h3>
+step 6 : we can aslo use viedos for the model...</h3>
